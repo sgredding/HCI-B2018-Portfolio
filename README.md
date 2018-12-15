@@ -1,4 +1,4 @@
-#HUman-Computer Interactions: An Exploration of Design
+#Human-Computer Interactions: An Exploration of Design
 ###Good Design, Bad Design
 Our first project was an analysis of good and poorly designed elements of our own school website:
 Good: https://medium.com/@simonredding_21579/an-example-of-good-design-3260a5160c34 Bad: https://medium.com/@simonredding_21579/an-example-of-bad-design-46004ac9ec7d
@@ -19,7 +19,7 @@ We continued our exploration of design with a new project: building a website th
 This brings us to our final project: Design for Another World. In this project, we created an entirely new world using Google Cardboard VR and Unity, with the goal of transporting the user into an enchanted forest, letting them enter into another realm entirely. https://medium.com/@simonredding_21579/design-for-another-world-4b02622a1d50
 
 ##Final Design Manifesto
-Throughout this course, we have studied many different aspects and applications of design, and HCI as a whole. I've learned a lot about human-computer interactions, and have compiled some of my thoughts into a single manifesto:
+Throughout this course, we have studied many different aspects and applications of design, and HCI as a whole. I've learned a lot about human-computer interactions, and have compiled some of my thoughts into a single manifesto: https://medium.com/@simonredding_21579/design-manifesto-3b7e1bee801
 
 
 
